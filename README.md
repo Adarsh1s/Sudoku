@@ -53,5 +53,5 @@ python Sudoku_GUI.py
 ```
 
 ## License
-This project is for educational purposes and is based on open-source resources.
+This project is based on open-source resources.
 
