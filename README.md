@@ -52,6 +52,11 @@ python Sudoku_GUI.py
 └── __pycache__/      # Cached Python files (auto-generated)
 ```
 
+## Screenshot
+
+![image](https://github.com/user-attachments/assets/e73e3456-1b01-49e0-bebd-9018f7120dcb)
+
+
 ## License
 This project is based on open-source resources.
 
